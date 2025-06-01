@@ -86,7 +86,7 @@ def main():
         st.image(segmented_image, channels="RGB",caption='U-Net segmentation')
         st.image(segmented_image1, channels="RGB",caption='Spatial Attention U-Net segmentation ')
 
-# Function to perform segmentation on the selected image
+# Function to perform segmentation on the selected imagee
 
 
 if __name__ == "__main__":
